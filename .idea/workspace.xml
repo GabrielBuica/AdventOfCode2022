@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcab0338-f494-4d8c-9596-c2c9acc882d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AdventOfCode2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aoc2022/AbstractPuzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aoc2022/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aoc2022/Puzzle01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aoc2022/PuzzleInputFetcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aoc2022/Puzzle02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aoc2022/Puzzle03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aoc2022/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/aoc2022/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +51,7 @@
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
