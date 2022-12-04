@@ -5,10 +5,10 @@ import java.util.List;
 public class Main {
     private static final PuzzleInputFetcher PUZZLE_INPUT_FETCHER = new PuzzleInputFetcher();
     private static final List<AbstractPuzzle> PUZZLES = List.of(
-            new Puzzle01(PUZZLE_INPUT_FETCHER.getPuzzleInput(1)),
-            new Puzzle02(PUZZLE_INPUT_FETCHER.getPuzzleInput(2))
-//            new Puzzle03(PUZZLE_INPUT_FETCHER.getPuzzleInput(3)),
-//            new Puzzle04(PUZZLE_INPUT_FETCHER.getPuzzleInput(4)),
+//            new Puzzle01(PUZZLE_INPUT_FETCHER.getPuzzleInput(1)),
+//            new Puzzle02(PUZZLE_INPUT_FETCHER.getPuzzleInput(2)),
+//            new Puzzle03(PUZZLE_INPUT_FETCHER.getPuzzleInput(3)).
+            new Puzzle04(PUZZLE_INPUT_FETCHER.getPuzzleInput(4))
 //            new Puzzle05(PUZZLE_INPUT_FETCHER.getPuzzleInput(5)),
 //            new Puzzle06(PUZZLE_INPUT_FETCHER.getPuzzleInput(6)),
 //            new Puzzle07(PUZZLE_INPUT_FETCHER.getPuzzleInput(7)),
